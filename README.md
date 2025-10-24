@@ -25,7 +25,8 @@ All games are located in the `Vafor_IT` folder.
 
 ## 🛠️ Game Requests & Bug Fixes
 
-- Some **Bow Masters** UI buttons are still being fixed.  
+- Some **Bow Masters** UI buttons are still being fixed.
+- Bounce masters doesnt save progress when the game is reloaded.
 - If you discover a bug, open an issue or tell me in person.  
 -  **YouTube playables** are coming soon.  
 
